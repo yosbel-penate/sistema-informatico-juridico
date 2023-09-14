@@ -1,3 +1,23 @@
+Cada miembro del equipo debe completar tareas que demuestren la implementación y el dominio de los objetivos de la asignatura. No se permiten clases implementadas por más de un miembro del equipo, y las clases relacionadas mediante herencia deben ser implementadas por el mismo programador. No se permiten exposiciones compartidas de dichas clases. El profesor evaluará la complejidad del proyecto realizado por el equipo y decidirá si alcanza el nivel suficiente para ser aceptado. El profesor revisará el diagrama UML del proyecto y la contribución de cada estudiante. El proyecto solo será aceptado si todos los diagramas UML de los miembros son aprobados por el profesor, los estudiantes deben tener sus diagramas UML listos antes de codificar y lo más rápido posible.
+
+Los estudiantes deberán entregar de manera individual una documentación en la Wiki del repositorio que explique de manera detallada la implementación de su trabajo, incluyendo un diagrama de clases que muestre su parte del proyecto, así como una explicación de cada método y variable de cada clase, junto con una explicación de cada relación utilizada. En dicha documentacion se debe ver reflejado el cumplimiento de todos los objetivos de la asignatura(estos se encuentran al principio de cada conferencia) por parte del estudiante, así como la esplicación de como utilizar las interfaces gráficas del proceso que implementó. De faltar algun objetivo durante la primera exposición se enviará al estudiante a segunda vuelta. La presentacion del proyecto es de manera individual, por tanto todo estudiante debe tener conocimiento del negocio en general. La parte que implemente un programador debe cumplir un con un flujo completo de al menos una actividad, un CRUD completo. La aplicación debe ser de ventanas gráficas, con menús que utilicen elementos visuales de java. El profesor evaluará a cada miembro del equipo de acuerdo a la frecuencia, calidad y cantidad de pullrequest aceptados, con lo cual verificará que lo que el estudiante expone realmete lo implementó él, no se aceptará ningún códico que no fue previamente aceptado mediante un pullrequest. El proyecto que será aceptado será aquel que está registrado en este repositorio y no se aceptará otra version fuera de este.
+
+Para la realización del diagrama UML se utilizará la extension de Vscode: PlantUML v2.17.5, el lenguaje de desarrollo será java 17.0.5 y el IDE de desarrollo Vscode v 1.81.1 con las extensiones:
+
+Project Manager for Java v0.23.1
+
+Debugger for Java v0.54.0
+
+Language Support for Java(TM) by Red Hat v1.13.0
+
+Se instalará el java:
+
+java 17.0.5 2022-10-18 LTS
+
+Java(TM) SE Runtime Environment (build 17.0.5+9-LTS-191)
+
+Java HotSpot(TM) 64-Bit Server VM (build 17.0.5+9-LTS-191, mixed mode, sharing)
+
 # sistema-informatico-juridico
 Es un sistema informático jurídico que tiene por  objeto asistir a los operadores de la justicia –jueces, fiscales y defensores- del fuero  penal en el proceso de individualización de la pena.
 
